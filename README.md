@@ -17,3 +17,6 @@ This project was developed with the following technologies:
 * HTML
 * CSS
 * Vanilla Javascript
+
+## To View the project
+https://selvajayarose.github.io/Product_Card_VanillaJS/
